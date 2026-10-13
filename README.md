@@ -1,4 +1,4 @@
-# Cybersecurity Project – Mirfield Automotive Spares Ltd Website
+# Cybersecurity Project - Mirfield Automotive Spares Ltd Website
 
 ## Project Overview
 
