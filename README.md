@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository documents the cybersecurity work I carried out on the website of **Mirfield Automotive Spares Ltd**, a local scrapyard and commercial vehicle breakers business.
+This repository documents the cybersecurity work I carried out on the website of **Mirfield Automotive Spares Ltd**, a local scrapyard and commercial vehicle breakers business. This is my first cyber security project i have done, therefor 
 
 My main responsibility was to improve the website's security, protect sensitive information, create backups, and perform security testing to identify potential vulnerabilities.
 
